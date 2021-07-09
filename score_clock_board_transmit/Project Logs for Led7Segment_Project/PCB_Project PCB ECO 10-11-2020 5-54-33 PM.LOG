@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SET HC12 Pin=U9-14
+Removed Pin From Net: NetName=BUTTON_DE Pin=U9-39
+Added Pin To Net: NetName=SET HC12 Pin=U9-10
+Added Pin To Net: NetName=BUTTON_DE Pin=U9-14
+Added Room: Name=MainBoard

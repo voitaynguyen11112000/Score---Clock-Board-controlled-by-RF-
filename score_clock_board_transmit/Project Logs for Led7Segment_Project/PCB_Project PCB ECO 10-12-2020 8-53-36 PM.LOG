@@ -1,0 +1,14 @@
+Added Component: Designator=D13(LED7 CA 4INCH)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VLED7 Pin=D13-1
+Added Pin To Net: NetName=4e Pin=D13-2
+Added Pin To Net: NetName=4d Pin=D13-3
+Added Pin To Net: NetName=4c Pin=D13-4
+Added Pin To Net: NetName=4p Pin=D13-5
+Added Pin To Net: NetName=4b Pin=D13-6
+Added Pin To Net: NetName=4a Pin=D13-7
+Added Pin To Net: NetName=VLED7 Pin=D13-8
+Added Pin To Net: NetName=4f Pin=D13-9
+Added Pin To Net: NetName=4g Pin=D13-10
+Added Member To Class: ClassName=MainBoard Member=Component D13 LED7 4INCH
+Added Room: Name=MainBoard

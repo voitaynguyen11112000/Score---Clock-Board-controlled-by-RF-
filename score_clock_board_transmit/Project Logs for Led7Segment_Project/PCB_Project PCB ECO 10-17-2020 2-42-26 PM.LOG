@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SPI_CLK Pin=U9-15
+Removed Pin From Net: NetName=SPI_LAT Pin=U9-16
+Added Pin To Net: NetName=SPI_LAT Pin=U9-15
+Added Pin To Net: NetName=SPI_CLK Pin=U9-16
+Added Member To Class: ClassName=MainBoard Member=Component D11 LED7 4INCH
+Added Member To Class: ClassName=MainBoard Member=Component D13 LED7 4INCH
+Added Member To Class: ClassName=MainBoard Member=Component U18 74HC595
+Added Room: Name=MainBoard

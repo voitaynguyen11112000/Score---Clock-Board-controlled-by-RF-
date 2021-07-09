@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=VIN_DS Pin=L5-1
+Removed Pin From Net: NetName=3V3 Pin=L5-2
+Removed Pin From Net: NetName=VIN_DS Pin=L6-1
+Removed Pin From Net: NetName=VCC Pin=L6-2
+Removed Member From Class: ClassName=MainBoard Member=L5
+Removed Member From Class: ClassName=MainBoard Member=L6
+Added Component: Designator=R16(R 0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R 0805 (2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN_DS Pin=R16-1
+Added Pin To Net: NetName=3V3 Pin=R16-2
+Added Pin To Net: NetName=VIN_DS Pin=R17-1
+Added Pin To Net: NetName=VCC Pin=R17-2
+Change Net Name : Old Net Name=NetU17_9 New Net Name=SPI 1_3
+Added Pin To Net: NetName=1_1 Pin=U1-8
+Added Pin To Net: NetName=1_1 Pin=U12-15
+Added Net: Name=1_1
+Added Pin To Net: NetName=1_2 Pin=U1-7
+Added Pin To Net: NetName=1_2 Pin=U12-1
+Added Net: Name=1_2
+Added Pin To Net: NetName=1_3 Pin=U1-6
+Added Pin To Net: NetName=1_3 Pin=U12-2
+Added Net: Name=1_3
+Added Pin To Net: NetName=1_4 Pin=U1-5
+Added Pin To Net: NetName=1_4 Pin=U12-3
+Added Net: Name=1_4
+Added Pin To Net: NetName=1_5 Pin=U1-4
+Added Pin To Net: NetName=1_5 Pin=U12-4
+Added Net: Name=1_5
+Added Pin To Net: NetName=1_6 Pin=U1-3
+Added Pin To Net: NetName=1_6 Pin=U12-5
+Added Net: Name=1_6
+Added Pin To Net: NetName=1_7 Pin=U1-2
+Added Pin To Net: NetName=1_7 Pin=U12-6
+Added Net: Name=1_7
+Added Pin To Net: NetName=1_8 Pin=U1-1
+Added Pin To Net: NetName=1_8 Pin=U12-7
+Added Net: Name=1_8
+Added Pin To Net: NetName=2_1 Pin=U2-8
+Added Pin To Net: NetName=2_1 Pin=U13-15
+Added Net: Name=2_1
+Added Pin To Net: NetName=2_2 Pin=U2-7
+Added Pin To Net: NetName=2_2 Pin=U13-1
+Added Net: Name=2_2
+Added Pin To Net: NetName=2_3 Pin=U2-6
+Added Pin To Net: NetName=2_3 Pin=U13-2
+Added Net: Name=2_3
+Added Pin To Net: NetName=2_4 Pin=U2-5
+Added Pin To Net: NetName=2_4 Pin=U13-3
+Added Net: Name=2_4
+Added Pin To Net: NetName=2_5 Pin=U2-4
+Added Pin To Net: NetName=2_5 Pin=U13-4
+Added Net: Name=2_5
+Added Pin To Net: NetName=2_6 Pin=U2-3
+Added Pin To Net: NetName=2_6 Pin=U13-5
+Added Net: Name=2_6
+Added Pin To Net: NetName=2_7 Pin=U2-2
+Added Pin To Net: NetName=2_7 Pin=U13-6
+Added Net: Name=2_7
+Added Pin To Net: NetName=2_8 Pin=U2-1
+Added Pin To Net: NetName=2_8 Pin=U13-7
+Added Net: Name=2_8
+Added Pin To Net: NetName=3_1 Pin=U4-8
+Added Pin To Net: NetName=3_1 Pin=U17-15
+Added Net: Name=3_1
+Added Pin To Net: NetName=3_2 Pin=U4-7
+Added Pin To Net: NetName=3_2 Pin=U17-1
+Added Net: Name=3_2
+Added Pin To Net: NetName=3_3 Pin=U4-6
+Added Pin To Net: NetName=3_3 Pin=U17-2
+Added Net: Name=3_3
+Added Pin To Net: NetName=3_4 Pin=U4-5
+Added Pin To Net: NetName=3_4 Pin=U17-3
+Added Net: Name=3_4
+Added Pin To Net: NetName=3_5 Pin=U4-4
+Added Pin To Net: NetName=3_5 Pin=U17-4
+Added Net: Name=3_5
+Added Pin To Net: NetName=3_6 Pin=U4-3
+Added Pin To Net: NetName=3_6 Pin=U17-5
+Added Net: Name=3_6
+Added Pin To Net: NetName=3_7 Pin=U4-2
+Added Pin To Net: NetName=3_7 Pin=U17-6
+Added Net: Name=3_7
+Added Pin To Net: NetName=3_8 Pin=U4-1
+Added Pin To Net: NetName=3_8 Pin=U17-7
+Added Net: Name=3_8
+Added Pin To Net: NetName=4_1 Pin=U5-8
+Added Pin To Net: NetName=4_1 Pin=U18-15
+Added Net: Name=4_1
+Added Pin To Net: NetName=4_2 Pin=U5-7
+Added Pin To Net: NetName=4_2 Pin=U18-1
+Added Net: Name=4_2
+Added Pin To Net: NetName=4_3 Pin=U5-6
+Added Pin To Net: NetName=4_3 Pin=U18-2
+Added Net: Name=4_3
+Added Pin To Net: NetName=4_4 Pin=U5-5
+Added Pin To Net: NetName=4_4 Pin=U18-3
+Added Net: Name=4_4
+Added Pin To Net: NetName=4_5 Pin=U5-4
+Added Pin To Net: NetName=4_5 Pin=U18-4
+Added Net: Name=4_5
+Added Pin To Net: NetName=4_6 Pin=U5-3
+Added Pin To Net: NetName=4_6 Pin=U18-5
+Added Net: Name=4_6
+Added Pin To Net: NetName=4_7 Pin=U5-2
+Added Pin To Net: NetName=4_7 Pin=U18-6
+Added Net: Name=4_7
+Added Pin To Net: NetName=4_8 Pin=U5-1
+Added Pin To Net: NetName=4_8 Pin=U18-7
+Added Net: Name=4_8
+Added Member To Class: ClassName=MainBoard Member=Component Hole3 3mm
+Added Member To Class: ClassName=MainBoard Member=Component R16 R
+Added Member To Class: ClassName=MainBoard Member=Component R17 R
+Added Room: Name=MainBoard

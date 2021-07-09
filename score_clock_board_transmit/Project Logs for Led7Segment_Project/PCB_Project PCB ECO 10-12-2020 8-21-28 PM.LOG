@@ -1,0 +1,165 @@
+Added Component: Designator=R12(R SIP9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R SIP9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R SIP9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R SIP9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VLED7 Pin=R12-1
+Added Pin To Net: NetName=VLED7 Pin=R13-1
+Added Pin To Net: NetName=VLED7 Pin=R14-1
+Added Pin To Net: NetName=VLED7 Pin=R15-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R45-1
+Added Pin To Net: NetName=NetR12_2 Pin=U1-18
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR12_3 Pin=R12-3
+Added Pin To Net: NetName=NetR12_3 Pin=R47-1
+Added Pin To Net: NetName=NetR12_3 Pin=U1-17
+Added Net: Name=NetR12_3
+Added Pin To Net: NetName=NetR12_4 Pin=R12-4
+Added Pin To Net: NetName=NetR12_4 Pin=R49-1
+Added Pin To Net: NetName=NetR12_4 Pin=U1-16
+Added Net: Name=NetR12_4
+Added Pin To Net: NetName=NetR12_5 Pin=R12-5
+Added Pin To Net: NetName=NetR12_5 Pin=R52-1
+Added Pin To Net: NetName=NetR12_5 Pin=U1-15
+Added Net: Name=NetR12_5
+Added Pin To Net: NetName=NetR12_6 Pin=R12-6
+Added Pin To Net: NetName=NetR12_6 Pin=R54-1
+Added Pin To Net: NetName=NetR12_6 Pin=U1-14
+Added Net: Name=NetR12_6
+Added Pin To Net: NetName=NetR12_7 Pin=R12-7
+Added Pin To Net: NetName=NetR12_7 Pin=R56-1
+Added Pin To Net: NetName=NetR12_7 Pin=U1-13
+Added Net: Name=NetR12_7
+Added Pin To Net: NetName=NetR12_8 Pin=R12-8
+Added Pin To Net: NetName=NetR12_8 Pin=R58-1
+Added Pin To Net: NetName=NetR12_8 Pin=U1-12
+Added Net: Name=NetR12_8
+Added Pin To Net: NetName=NetR12_9 Pin=R12-9
+Added Pin To Net: NetName=NetR12_9 Pin=R60-1
+Added Pin To Net: NetName=NetR12_9 Pin=U1-11
+Added Net: Name=NetR12_9
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=R46-1
+Added Pin To Net: NetName=NetR13_2 Pin=U2-18
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR13_3 Pin=R13-3
+Added Pin To Net: NetName=NetR13_3 Pin=R48-1
+Added Pin To Net: NetName=NetR13_3 Pin=U2-17
+Added Net: Name=NetR13_3
+Added Pin To Net: NetName=NetR13_4 Pin=R13-4
+Added Pin To Net: NetName=NetR13_4 Pin=R50-1
+Added Pin To Net: NetName=NetR13_4 Pin=U2-16
+Added Net: Name=NetR13_4
+Added Pin To Net: NetName=NetR13_5 Pin=R13-5
+Added Pin To Net: NetName=NetR13_5 Pin=R53-1
+Added Pin To Net: NetName=NetR13_5 Pin=U2-15
+Added Net: Name=NetR13_5
+Added Pin To Net: NetName=NetR13_6 Pin=R13-6
+Added Pin To Net: NetName=NetR13_6 Pin=R55-1
+Added Pin To Net: NetName=NetR13_6 Pin=U2-14
+Added Net: Name=NetR13_6
+Added Pin To Net: NetName=NetR13_7 Pin=R13-7
+Added Pin To Net: NetName=NetR13_7 Pin=R57-1
+Added Pin To Net: NetName=NetR13_7 Pin=U2-13
+Added Net: Name=NetR13_7
+Added Pin To Net: NetName=NetR13_8 Pin=R13-8
+Added Pin To Net: NetName=NetR13_8 Pin=R59-1
+Added Pin To Net: NetName=NetR13_8 Pin=U2-12
+Added Net: Name=NetR13_8
+Added Pin To Net: NetName=NetR13_9 Pin=R13-9
+Added Pin To Net: NetName=NetR13_9 Pin=R61-1
+Added Pin To Net: NetName=NetR13_9 Pin=U2-11
+Added Net: Name=NetR13_9
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=R64-1
+Added Pin To Net: NetName=NetR14_2 Pin=U4-18
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR14_3 Pin=R14-3
+Added Pin To Net: NetName=NetR14_3 Pin=R67-1
+Added Pin To Net: NetName=NetR14_3 Pin=U4-17
+Added Net: Name=NetR14_3
+Added Pin To Net: NetName=NetR14_4 Pin=R14-4
+Added Pin To Net: NetName=NetR14_4 Pin=R69-1
+Added Pin To Net: NetName=NetR14_4 Pin=U4-16
+Added Net: Name=NetR14_4
+Added Pin To Net: NetName=NetR14_5 Pin=R14-5
+Added Pin To Net: NetName=NetR14_5 Pin=R72-1
+Added Pin To Net: NetName=NetR14_5 Pin=U4-15
+Added Net: Name=NetR14_5
+Added Pin To Net: NetName=NetR14_6 Pin=R14-6
+Added Pin To Net: NetName=NetR14_6 Pin=R74-1
+Added Pin To Net: NetName=NetR14_6 Pin=U4-14
+Added Net: Name=NetR14_6
+Added Pin To Net: NetName=NetR14_7 Pin=R14-7
+Added Pin To Net: NetName=NetR14_7 Pin=R76-1
+Added Pin To Net: NetName=NetR14_7 Pin=U4-13
+Added Net: Name=NetR14_7
+Added Pin To Net: NetName=NetR14_8 Pin=R14-8
+Added Pin To Net: NetName=NetR14_8 Pin=R78-1
+Added Pin To Net: NetName=NetR14_8 Pin=U4-12
+Added Net: Name=NetR14_8
+Added Pin To Net: NetName=NetR14_9 Pin=R14-9
+Added Pin To Net: NetName=NetR14_9 Pin=R80-1
+Added Pin To Net: NetName=NetR14_9 Pin=U4-11
+Added Net: Name=NetR14_9
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=R65-1
+Added Pin To Net: NetName=NetR15_2 Pin=U5-18
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR15_3 Pin=R15-3
+Added Pin To Net: NetName=NetR15_3 Pin=R68-1
+Added Pin To Net: NetName=NetR15_3 Pin=U5-17
+Added Net: Name=NetR15_3
+Added Pin To Net: NetName=NetR15_4 Pin=R15-4
+Added Pin To Net: NetName=NetR15_4 Pin=R70-1
+Added Pin To Net: NetName=NetR15_4 Pin=U5-16
+Added Net: Name=NetR15_4
+Added Pin To Net: NetName=NetR15_5 Pin=R15-5
+Added Pin To Net: NetName=NetR15_5 Pin=R73-1
+Added Pin To Net: NetName=NetR15_5 Pin=U5-15
+Added Net: Name=NetR15_5
+Added Pin To Net: NetName=NetR15_6 Pin=R15-6
+Added Pin To Net: NetName=NetR15_6 Pin=R75-1
+Added Pin To Net: NetName=NetR15_6 Pin=U5-14
+Added Net: Name=NetR15_6
+Added Pin To Net: NetName=NetR15_7 Pin=R15-7
+Added Pin To Net: NetName=NetR15_7 Pin=R77-1
+Added Pin To Net: NetName=NetR15_7 Pin=U5-13
+Added Net: Name=NetR15_7
+Added Pin To Net: NetName=NetR15_8 Pin=R15-8
+Added Pin To Net: NetName=NetR15_8 Pin=R79-1
+Added Pin To Net: NetName=NetR15_8 Pin=U5-12
+Added Net: Name=NetR15_8
+Added Pin To Net: NetName=NetR15_9 Pin=R15-9
+Added Pin To Net: NetName=NetR15_9 Pin=R81-1
+Added Pin To Net: NetName=NetR15_9 Pin=U5-11
+Added Net: Name=NetR15_9
+Added Member To Class: ClassName=MainBoard Member=Component R12 R-SIP9
+Added Member To Class: ClassName=MainBoard Member=Component R13 R-SIP9
+Added Member To Class: ClassName=MainBoard Member=Component R14 R-SIP9
+Added Member To Class: ClassName=MainBoard Member=Component R15 R-SIP9
+Added Room: Name=MainBoard

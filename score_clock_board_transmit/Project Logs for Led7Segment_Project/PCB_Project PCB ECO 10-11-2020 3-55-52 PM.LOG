@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=R3-1
+Removed Pin From Net: NetName=3V3 Pin=R4-2
+Removed Pin From Net: NetName=3V3 Pin=R5-2
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=3V3 Pin=U3-2
+Added Component: Designator=L5(Inductor SMD 7.5x7.0x5.0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L6(Inductor SMD 7.5x7.0x5.0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=L5-2
+Added Pin To Net: NetName=VCC Pin=L6-2
+Added Pin To Net: NetName=VIN_DS Pin=C1-1
+Added Pin To Net: NetName=VIN_DS Pin=L5-1
+Added Pin To Net: NetName=VIN_DS Pin=L6-1
+Added Pin To Net: NetName=VIN_DS Pin=R3-1
+Added Pin To Net: NetName=VIN_DS Pin=R4-2
+Added Pin To Net: NetName=VIN_DS Pin=R5-2
+Added Pin To Net: NetName=VIN_DS Pin=R6-2
+Added Pin To Net: NetName=VIN_DS Pin=U3-2
+Added Net: Name=VIN_DS
+Added Member To Class: ClassName=MainBoard Member=Component L5 Inductor
+Added Member To Class: ClassName=MainBoard Member=Component L6 Inductor
+Added Room: Name=MainBoard

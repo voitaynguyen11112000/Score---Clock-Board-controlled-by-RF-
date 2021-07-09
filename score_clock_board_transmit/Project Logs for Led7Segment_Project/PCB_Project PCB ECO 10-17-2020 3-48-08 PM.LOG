@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P6 Old Footprint=Header 2 New Footprint=CON Header 2
+Change Component Footprint: Designator=P7 Old Footprint=Header 2 New Footprint=CON Header 2
+Change Component Footprint: Designator=P8 Old Footprint=Header 2 New Footprint=CON Header 2
+Change Component Footprint: Designator=P9 Old Footprint=Header 2 New Footprint=CON Header 2
+Added Member To Class: ClassName=MainBoard Member=Component D11 LED7 4INCH
+Added Room: Name=MainBoard
